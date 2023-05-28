@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar
+{
+  /* position: absolute; */
+  /* position: fixed; */
+  flex:1;
+}
+
+.search
+{
+  /* position: fixed; */
+  flex:1;
+}
+
+.container
+{
+  display: flex;
+  flex-direction: column;
+  background-color: aqua;
+
+}
+.divtag
+{
+  background-color: #61dafb;
+  /* flex:2; */
+ 
+
+
+}

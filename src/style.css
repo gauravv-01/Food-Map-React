@@ -1,0 +1,134 @@
+.navbar
+{
+  /* position: absolute; */
+  /* position: fixed; */
+  margin-top: 0px;
+  /* flex:1; */
+}
+
+.search
+{
+  margin-top: 40px;
+  /* position: fixed; */
+  /* display: flex; */
+  /* flex:1;
+  */
+  /* position: relative; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* background-color: #61dafb; */
+   /* flex-basis: 14vh; */
+   /* margin-top: 8vh; */
+   
+   /* padding: 8vh; */
+}
+
+
+.divtag
+{
+  /* height: 80px; */
+  
+  position: fixed;
+  flex-basis: 13vh;
+  /* z-index: 1000; */
+  /* margin-bottom: 200px; */
+  /* flex:20%; */
+  /* border-color: 1px solid black ; */
+  /* display: flex; */
+
+}
+
+.food
+{
+    flex-basis: 500vh;
+    /* position: inherit; */
+    /* margin-top: 40px; */
+}
+
+.container1
+{
+  display: flex;
+  background-color: aqua;
+  /* border:solid; */
+  border-top: 0px;
+  /* color: aqua; */
+  /* flex-basis: 200px; */
+  /* height: 11.8vh; */
+  height: 65px;
+  margin-bottom: 20px;
+}
+.container2
+{
+  display: flex;
+  /* background-color: aqua; */
+  /* border:solid; */
+  /* border-top: 0px; */
+  justify-content: center;
+  align-items: flex-end;
+  /* color: aqua; */
+  /* flex-basis: 200px; */
+  height: 100px;
+}
+.container3
+{
+  display: flex;
+  /* background-color: aqua; */
+  /* border:solid; */
+  /* border-top: 0px; */
+  justify-content: center;
+  align-items: center;
+  /* color: aqua; */
+  /* flex-basis: 100px; */
+  /* height: 150px; */
+}
+.container4
+{
+  display: flex;
+  /* background-color: aqua; */
+  /* border:solid; */
+  justify-content: center;
+  align-items: center;
+  /* flex-basis: 100px; */
+  /* height: 150px; */
+}
+.container5
+{
+  display: flex;
+  /* background-color: aqua; */
+  /* border:solid; */
+  justify-content: center;
+  align-items: center;
+  /* flex-basis: 100px; */
+  /* height: 150px; */
+}
+.container6
+{
+  display: flex;
+  /* background-color: aqua; */
+  /* border:solid; */
+  /* margin-top: 0px; */
+  justify-content: center;
+  align-items: center;
+  /* flex-basis: 100px; */
+  /* height: 150px; */
+}
+.container7
+{
+  display: flex;
+  /* background-color: aqua; */
+  /* border:solid; */
+  justify-content: center;
+  align-items: center;
+  /* flex-basis: 100px; */
+  /* height: 150px; */
+}
+.container8
+{
+  display: flex;
+  /* background-color: aqua; */
+  /* border:solid; */
+  justify-content: center;
+  align-items: center;
+  /* flex-basis: 100px; */
+  /* height: 150px; */
+}
